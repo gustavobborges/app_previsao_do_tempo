@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:wealthe2/biguacu.dart';
-import 'package:wealthe2/saojose.dart';
+import 'package:weather_app/biguacu.dart';
+import 'package:weather_app/saojose.dart';
 import 'florianopolis.dart';
 import 'saojose.dart';
 import 'biguacu.dart';
